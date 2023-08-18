@@ -43,17 +43,21 @@
 
 ### Figure 6
 
-#### Upper diagonal ($`D_T \gg D_C`$)
+| Upper diagonal ($`D_T \gg D_C`$) | Main diagonal ($`D_T=D_C`$) | Lower diagonal ($`D_T \ll D_C`$) |
+| --- | --- | --- |
+| ![Upper diagonal](https://github.com/champagnealexandre/DiffusionPattern/blob/main/anims/fig6/MS28_anim_000028.gif) | ![Main diagonal](https://github.com/champagnealexandre/DiffusionPattern/blob/main/anims/fig6/MS28_anim_000066.gif) | ![Lower diagonal](https://github.com/champagnealexandre/DiffusionPattern/blob/main/anims/fig6/MS28_anim_000082.gif) |
 
-![Upper diagonal](https://github.com/champagnealexandre/DiffusionPattern/blob/main/anims/fig6/MS28_anim_000028.gif)
+<!-- #### Upper diagonal ($`D_T \gg D_C`$) -->
 
-#### Main diagonal ($`D_T=D_C`$)
+<!-- ![Upper diagonal](https://github.com/champagnealexandre/DiffusionPattern/blob/main/anims/fig6/MS28_anim_000028.gif) -->
 
-![Main diagonal](https://github.com/champagnealexandre/DiffusionPattern/blob/main/anims/fig6/MS28_anim_000066.gif)
+<!-- #### Main diagonal ($`D_T=D_C`$) -->
 
-#### Lower diagonal ($`D_T \ll D_C`$)
+<!-- ![Main diagonal](https://github.com/champagnealexandre/DiffusionPattern/blob/main/anims/fig6/MS28_anim_000066.gif) -->
 
-![Lower diagonal](https://github.com/champagnealexandre/DiffusionPattern/blob/main/anims/fig6/MS28_anim_000082.gif)
+<!-- #### Lower diagonal ($`D_T \ll D_C`$) -->
+
+<!-- ![Lower diagonal](https://github.com/champagnealexandre/DiffusionPattern/blob/main/anims/fig6/MS28_anim_000082.gif) -->
 
 <!-- - [Upper diagonal](https://github.com/champagnealexandre/DiffusionPattern/blob/main/anims/fig6/MS28_anim_000028.gif) ($`D_T \gg D_C`$) -->
 <!-- - [Main diagonal](https://github.com/champagnealexandre/DiffusionPattern/blob/main/anims/fig6/MS28_anim_000066.gif) ($`D_T=D_C`$) -->
