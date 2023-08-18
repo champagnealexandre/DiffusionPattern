@@ -19,15 +19,15 @@
 
 #### Steady regime ($`D_T \gg D_C`$)
 
-![Steady regime](https://github.com/champagnealexandre/DiffusionPattern/blob/main/anims/fig5/MS02_DC%3D1e-04_DT%3D1e-03_animation.mp4)
+![Steady regime](https://github.com/champagnealexandre/DiffusionPattern/blob/main/anims/fig5/MS02_DC%3D1e-04_DT%3D1e-03_animation.gif)
 
 #### Main diagonal ($`D_T=D_C`$)
 
-![Main diagonal](https://github.com/champagnealexandre/DiffusionPattern/blob/main/anims/fig5/MS02_DC%3D1e-04_DT%3D1e-04_animation.mp4)
+![Main diagonal](https://github.com/champagnealexandre/DiffusionPattern/blob/main/anims/fig5/MS02_DC%3D1e-04_DT%3D1e-04_animation.gif)
 
 #### Damped regime ($`D_T \ll D_C`$)
 
-![Damped regime](https://github.com/champagnealexandre/DiffusionPattern/blob/main/anims/fig5/MS02_DC%3D1e-04_DT%3D1e-07_animation.mp4)
+![Damped regime](https://github.com/champagnealexandre/DiffusionPattern/blob/main/anims/fig5/MS02_DC%3D1e-04_DT%3D1e-07_animation.gif)
 
 <!-- - [Steady regime](https://github.com/champagnealexandre/DiffusionPattern/blob/main/anims/fig5/MS02_DC%3D1e-04_DT%3D1e-03_animation.mp4) ($`D_T \gg D_C`$) -->
 <!-- - [Main diagonal](https://github.com/champagnealexandre/DiffusionPattern/blob/main/anims/fig5/MS02_DC%3D1e-04_DT%3D1e-04_animation.mp4) ($`D_T=D_C`$) -->
