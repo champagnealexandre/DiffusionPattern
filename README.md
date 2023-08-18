@@ -4,7 +4,7 @@
 
 ### Figure 2
 
-- [Panel A ($`p=3.14 \times 10^{-5}`$)](https://github.com/champagnealexandre/DiffusionPattern/blob/main/anims/fig2/MS20_anim_000003.gif)
+- [Panel A](https://github.com/champagnealexandre/DiffusionPattern/blob/main/anims/fig2/MS20_anim_000003.gif) ($`p=3.14 \times 10^{-5}`$)
 - [Panel C ($`p=1.07 \times 10^{-2}`$)](https://github.com/champagnealexandre/DiffusionPattern/blob/main/anims/fig2/MS20_anim_000009.gif)
 
 ### Figure 5
