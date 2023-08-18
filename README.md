@@ -12,8 +12,8 @@
 
 ![Panel C](https://github.com/champagnealexandre/DiffusionPattern/blob/main/anims/fig2/MS20_anim_000009.gif)
 
-- [Panel A](https://github.com/champagnealexandre/DiffusionPattern/blob/main/anims/fig2/MS20_anim_000003.gif) ($`p=3.14 \times 10^{-5}`$)
-- [Panel C](https://github.com/champagnealexandre/DiffusionPattern/blob/main/anims/fig2/MS20_anim_000009.gif) ($`p=1.07 \times 10^{-2}`$)
+<!-- - [Panel A](https://github.com/champagnealexandre/DiffusionPattern/blob/main/anims/fig2/MS20_anim_000003.gif) ($`p=3.14 \times 10^{-5}`$) -->
+<!-- - [Panel C](https://github.com/champagnealexandre/DiffusionPattern/blob/main/anims/fig2/MS20_anim_000009.gif) ($`p=1.07 \times 10^{-2}`$) -->
 
 ### Figure 5
 
