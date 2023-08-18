@@ -4,6 +4,9 @@
 
 ### Figure 2
 
+| Panel A | Panel C |
+| ![Panel A](https://github.com/champagnealexandre/DiffusionPattern/blob/main/anims/fig2/MS20_anim_000003.gif) | ![Panel C](https://github.com/champagnealexandre/DiffusionPattern/blob/main/anims/fig2/MS20_anim_000009.gif) |
+
 #### Panel A ($`p=3.14 \times 10^{-5}`$)
 
 ![Panel A](https://github.com/champagnealexandre/DiffusionPattern/blob/main/anims/fig2/MS20_anim_000003.gif)
