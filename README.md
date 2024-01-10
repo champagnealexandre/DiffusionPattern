@@ -43,7 +43,7 @@
 
 ### Figure 6
 
-| Upper diagonal ($`D_T \gg D_C`$) | Main diagonal ($`D_T=D_C`$) | Lower diagonal ($`D_T \ll D_C`$) |
+| Upper diagonal ($`\nu_T \gg \nu_C`$) | Main diagonal ($`\nu_T=\nu_C`$) | Lower diagonal ($`\nu_T \ll \nu_C`$) |
 | --- | --- | --- |
 | ![Upper diagonal](https://github.com/champagnealexandre/DiffusionPattern/blob/main/anims/fig6/MS28_anim_000028.gif) | ![Main diagonal](https://github.com/champagnealexandre/DiffusionPattern/blob/main/anims/fig6/MS28_anim_000066.gif) | ![Lower diagonal](https://github.com/champagnealexandre/DiffusionPattern/blob/main/anims/fig6/MS28_anim_000082.gif) |
 
